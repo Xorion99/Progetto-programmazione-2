@@ -58,3 +58,6 @@ classe Studente.
 L’inserimento e l’estrazione dalla coda avvengono in tempo O(1),
 tutte le operazioni nel BST invece avvengono con complessità
 O(n).
+
+<h2> ESEMPIO OUTPUT </H2>
+<img src="https://...thumbs-up.gif">
