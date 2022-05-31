@@ -61,3 +61,4 @@ O(n).
 
 <h2> ESEMPIO OUTPUT </H2>
 <img src="https://github.com/Xorion99/Progetto-programmazione-2/blob/main/esempio%20output/1.PNG">
+<img src="https://github.com/Xorion99/Progetto-programmazione-2/blob/main/esempio%20output/2.PNG">
