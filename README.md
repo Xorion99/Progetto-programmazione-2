@@ -39,7 +39,7 @@ operatore <<: per effettuare la stampa della lista.
   getAltezza: ritorna l’altezza dell’albero
 <li>cerca: cerca un elemento nell’albero
 <li>trapianta: effettua il trapianto di due nodi per compiere la
-<li>cancellazione mantenendo le leggi di un BST
+cancellazione mantenendo le leggi di un BST
 <li>cancellaNodo: elimina un nodo dall’albero
 <li>elimina_eta: metodo che ci cancella i nodi inferiori al
 parametro dato in input dall’utente.
