@@ -60,4 +60,4 @@ tutte le operazioni nel BST invece avvengono con complessità
 O(n).
 
 <h2> ESEMPIO OUTPUT </H2>
-<img src="https://...thumbs-up.gif">
+<img src="https://github.com/Xorion99/Progetto-programmazione-2/blob/main/esempio%20output/1.PNG">
